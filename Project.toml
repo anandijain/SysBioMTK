@@ -1,0 +1,8 @@
+name = "SysBioMTK"
+uuid = "c9d257f7-4f7b-4957-b403-5053e4faa707"
+authors = ["anand jain <anandj@uchicago.edu>"]
+version = "0.1.0"
+
+[deps]
+CellMLToolkit = "03cb29e0-1ef4-4721-aa24-cf58a006576f"
+SBML = "e5567a89-2604-4b09-9718-f5f78e97c3bb"
